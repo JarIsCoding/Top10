@@ -1,5 +1,6 @@
 body {
     background-image: url(../assets/marvel-logo-red-background-free-vector.jpg);
+    background-color: #B51E23;
     background-size: 100%;
     background-repeat: no-repeat;
     height: auto;
@@ -11,10 +12,6 @@ body {
 }
 .black {
     background-color: black;
-}
-.flexCenter {
-    display: flex;
-    justify-content: center; align-items: center;
 }
 .textdown {
     padding-top: 550px;
