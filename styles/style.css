@@ -1,0 +1,10 @@
+body {
+    background-image: url(../assets/marvel-logo-red-background-free-vector.jpg);
+    background-size: 100%;
+}
+.white {
+    color: white;
+}
+.black {
+    background-color: black;
+}
