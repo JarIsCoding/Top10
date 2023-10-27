@@ -1,5 +1,5 @@
 body {
-    background-image: url(../assets/marvel-logo-red-background-free-vector.jpg);
+    background-image: url();
     background-color: #B51E23;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -13,9 +13,12 @@ body {
 .black {
     background-color: black;
 }
-.textdown {
-    padding-top: 550px;
-}
 .jar {
     height: 700px;
+}
+.imgchange {
+    size: 100%;
+    repeat: no-repeat;
+    height: auto;
+    width: 100%;
 }
