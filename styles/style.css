@@ -1,10 +1,24 @@
 body {
     background-image: url(../assets/marvel-logo-red-background-free-vector.jpg);
     background-size: 100%;
+    background-repeat: no-repeat;
+    height: auto;
+    width: 100%;
+
 }
 .white {
     color: white;
 }
 .black {
     background-color: black;
+}
+.flexCenter {
+    display: flex;
+    justify-content: center; align-items: center;
+}
+.textdown {
+    padding-top: 550px;
+}
+.jar {
+    height: 700px;
 }
