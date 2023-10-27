@@ -21,7 +21,18 @@ body {
     height: auto;
     width: 100%;
 }
-
-.bgText{
-    
+.flexdown {
+    display:flex;
+    justify-content: center; align-items: center;
+}
+.imgclass *{
+    object-fit:cover;
+}
+.imgclass {
+    height: 680px;
+}
+@media (max-width: 820px){
+    .imgclass {
+        max-height: 370px;
+    }
 }
